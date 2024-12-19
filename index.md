@@ -1,4 +1,4 @@
-# learning markdown
+7# learning markdown
 ## this is h2 
 ### h3 and so on
 #### h4
@@ -21,3 +21,7 @@ __ol__
 ``` c
 printf("hello world");
 ```
+- [x] started mulearn markdown
+- [x] comleted basic haeders
+- [x] compketed image
+- [ ] completed checklist
