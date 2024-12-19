@@ -15,3 +15,5 @@ __ol__
 1. ol1
 2. ol2
 3. ol3
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
