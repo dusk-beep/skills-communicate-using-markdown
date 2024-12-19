@@ -17,3 +17,7 @@ __ol__
 3. ol3
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` c
+printf("hello world");
+```
