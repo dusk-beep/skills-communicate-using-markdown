@@ -1,0 +1,17 @@
+# learning markdown
+## this is h2 
+### h3 and so on
+#### h4
+
+__bold text__
+_italic_
+
+__UL__
+- l1
+- l2
+- l3
+
+__ol__
+1. ol1
+2. ol2
+3. ol3
